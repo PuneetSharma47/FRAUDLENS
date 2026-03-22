@@ -1,0 +1,1090 @@
+[
+  {
+    "user_id": "u_1000",
+    "name": "Bahadurjit Sathe",
+    "avg_keystroke_delay_ms": 94,
+    "keystroke_std_deviation": 12,
+    "avg_session_duration_ms": 5418,
+    "typical_hours": [
+      19,
+      12
+    ],
+    "known_devices": [
+      "c38aa69a"
+    ],
+    "known_locations": [
+      "Bangalore"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 1000,
+    "backspace_rate": 0.04
+  },
+  {
+    "user_id": "u_1001",
+    "name": "Janani Chada",
+    "avg_keystroke_delay_ms": 83,
+    "keystroke_std_deviation": 18,
+    "avg_session_duration_ms": 6315,
+    "typical_hours": [
+      11,
+      22
+    ],
+    "known_devices": [
+      "ba01f9ec"
+    ],
+    "known_locations": [
+      "Kolkata"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.071
+  },
+  {
+    "user_id": "u_1002",
+    "name": "Vinaya Upadhyay",
+    "avg_keystroke_delay_ms": 100,
+    "keystroke_std_deviation": 21,
+    "avg_session_duration_ms": 6471,
+    "typical_hours": [
+      14,
+      13,
+      12,
+      10
+    ],
+    "known_devices": [
+      "1bdea5a5"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Mumbai"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 1000,
+    "backspace_rate": 0.034
+  },
+  {
+    "user_id": "u_1003",
+    "name": "Qarin Chand",
+    "avg_keystroke_delay_ms": 113,
+    "keystroke_std_deviation": 16,
+    "avg_session_duration_ms": 5885,
+    "typical_hours": [
+      19,
+      15
+    ],
+    "known_devices": [
+      "b0f6c987"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Hyderabad"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.015
+  },
+  {
+    "user_id": "u_1004",
+    "name": "Ayush Pall",
+    "avg_keystroke_delay_ms": 109,
+    "keystroke_std_deviation": 15,
+    "avg_session_duration_ms": 4516,
+    "typical_hours": [
+      9,
+      21,
+      11
+    ],
+    "known_devices": [
+      "c493efb4"
+    ],
+    "known_locations": [
+      "Hyderabad",
+      "Pune"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.035
+  },
+  {
+    "user_id": "u_1005",
+    "name": "Irya Bala",
+    "avg_keystroke_delay_ms": 114,
+    "keystroke_std_deviation": 18,
+    "avg_session_duration_ms": 6790,
+    "typical_hours": [
+      22,
+      18,
+      21,
+      9
+    ],
+    "known_devices": [
+      "d9ca0a5b"
+    ],
+    "known_locations": [
+      "Bangalore"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.055
+  },
+  {
+    "user_id": "u_1006",
+    "name": "Nirja Sahni",
+    "avg_keystroke_delay_ms": 108,
+    "keystroke_std_deviation": 12,
+    "avg_session_duration_ms": 3864,
+    "typical_hours": [
+      13,
+      21,
+      20,
+      8
+    ],
+    "known_devices": [
+      "494103da"
+    ],
+    "known_locations": [
+      "Chennai"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.074
+  },
+  {
+    "user_id": "u_1007",
+    "name": "Vasatika Mital",
+    "avg_keystroke_delay_ms": 120,
+    "keystroke_std_deviation": 18,
+    "avg_session_duration_ms": 6059,
+    "typical_hours": [
+      18,
+      15
+    ],
+    "known_devices": [
+      "fbf82d31",
+      "f083a22a"
+    ],
+    "known_locations": [
+      "Bangalore",
+      "Jaipur"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.051
+  },
+  {
+    "user_id": "u_1008",
+    "name": "Qushi Dey",
+    "avg_keystroke_delay_ms": 131,
+    "keystroke_std_deviation": 15,
+    "avg_session_duration_ms": 6244,
+    "typical_hours": [
+      11,
+      10,
+      16
+    ],
+    "known_devices": [
+      "cd842806",
+      "eb89e210"
+    ],
+    "known_locations": [
+      "Mumbai"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.058
+  },
+  {
+    "user_id": "u_1009",
+    "name": "Tanvi Shroff",
+    "avg_keystroke_delay_ms": 88,
+    "keystroke_std_deviation": 20,
+    "avg_session_duration_ms": 3456,
+    "typical_hours": [
+      14,
+      17,
+      15
+    ],
+    "known_devices": [
+      "e11660ab",
+      "a72386d3"
+    ],
+    "known_locations": [
+      "Delhi"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.031
+  },
+  {
+    "user_id": "u_1010",
+    "name": "Edhitha Badami",
+    "avg_keystroke_delay_ms": 100,
+    "keystroke_std_deviation": 16,
+    "avg_session_duration_ms": 3626,
+    "typical_hours": [
+      8,
+      19,
+      21
+    ],
+    "known_devices": [
+      "2d79ec96",
+      "a5359d18"
+    ],
+    "known_locations": [
+      "Delhi"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.036
+  },
+  {
+    "user_id": "u_1011",
+    "name": "Gabriel Bansal",
+    "avg_keystroke_delay_ms": 100,
+    "keystroke_std_deviation": 17,
+    "avg_session_duration_ms": 3237,
+    "typical_hours": [
+      20,
+      16,
+      8,
+      17
+    ],
+    "known_devices": [
+      "4a618d36",
+      "0aa83d7c"
+    ],
+    "known_locations": [
+      "Mumbai",
+      "Jaipur"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.027
+  },
+  {
+    "user_id": "u_1012",
+    "name": "Jai Jayaraman",
+    "avg_keystroke_delay_ms": 90,
+    "keystroke_std_deviation": 15,
+    "avg_session_duration_ms": 4085,
+    "typical_hours": [
+      19,
+      15
+    ],
+    "known_devices": [
+      "cd064453"
+    ],
+    "known_locations": [
+      "Bangalore"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.047
+  },
+  {
+    "user_id": "u_1013",
+    "name": "Anamika Nazareth",
+    "avg_keystroke_delay_ms": 134,
+    "keystroke_std_deviation": 24,
+    "avg_session_duration_ms": 6684,
+    "typical_hours": [
+      22,
+      16
+    ],
+    "known_devices": [
+      "a04d797a"
+    ],
+    "known_locations": [
+      "Kolkata",
+      "Chennai"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.046
+  },
+  {
+    "user_id": "u_1014",
+    "name": "Wyatt Anand",
+    "avg_keystroke_delay_ms": 95,
+    "keystroke_std_deviation": 10,
+    "avg_session_duration_ms": 3290,
+    "typical_hours": [
+      11,
+      9
+    ],
+    "known_devices": [
+      "ade083d9",
+      "c6a0b8f4"
+    ],
+    "known_locations": [
+      "Pune"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.06
+  },
+  {
+    "user_id": "u_1015",
+    "name": "Ishani Hayre",
+    "avg_keystroke_delay_ms": 87,
+    "keystroke_std_deviation": 16,
+    "avg_session_duration_ms": 5208,
+    "typical_hours": [
+      9,
+      8
+    ],
+    "known_devices": [
+      "409bf62f",
+      "458ad5f2"
+    ],
+    "known_locations": [
+      "Pune"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.019
+  },
+  {
+    "user_id": "u_1016",
+    "name": "Quincy Padmanabhan",
+    "avg_keystroke_delay_ms": 140,
+    "keystroke_std_deviation": 21,
+    "avg_session_duration_ms": 4734,
+    "typical_hours": [
+      20,
+      15
+    ],
+    "known_devices": [
+      "9c8523b2",
+      "94245b29"
+    ],
+    "known_locations": [
+      "Delhi"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.039
+  },
+  {
+    "user_id": "u_1017",
+    "name": "Janya Babu",
+    "avg_keystroke_delay_ms": 86,
+    "keystroke_std_deviation": 24,
+    "avg_session_duration_ms": 3574,
+    "typical_hours": [
+      18,
+      22,
+      9,
+      8
+    ],
+    "known_devices": [
+      "371ad39f",
+      "8dadb8c8"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Jaipur"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.04
+  },
+  {
+    "user_id": "u_1018",
+    "name": "Gaurav Mand",
+    "avg_keystroke_delay_ms": 115,
+    "keystroke_std_deviation": 12,
+    "avg_session_duration_ms": 6794,
+    "typical_hours": [
+      11,
+      21,
+      9
+    ],
+    "known_devices": [
+      "e2a7bc20",
+      "63683e15"
+    ],
+    "known_locations": [
+      "Mumbai"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 1000,
+    "backspace_rate": 0.063
+  },
+  {
+    "user_id": "u_1019",
+    "name": "Qushi Bhat",
+    "avg_keystroke_delay_ms": 110,
+    "keystroke_std_deviation": 22,
+    "avg_session_duration_ms": 3008,
+    "typical_hours": [
+      14,
+      15
+    ],
+    "known_devices": [
+      "b2f20727",
+      "b13484be"
+    ],
+    "known_locations": [
+      "Kolkata"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.079
+  },
+  {
+    "user_id": "u_1020",
+    "name": "Faras Sandhu",
+    "avg_keystroke_delay_ms": 113,
+    "keystroke_std_deviation": 11,
+    "avg_session_duration_ms": 5372,
+    "typical_hours": [
+      12,
+      14,
+      19
+    ],
+    "known_devices": [
+      "0f6c3895",
+      "b12c6fcb"
+    ],
+    "known_locations": [
+      "Pune"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.062
+  },
+  {
+    "user_id": "u_1021",
+    "name": "Omkaar Chahal",
+    "avg_keystroke_delay_ms": 87,
+    "keystroke_std_deviation": 15,
+    "avg_session_duration_ms": 3280,
+    "typical_hours": [
+      13,
+      8,
+      21,
+      17
+    ],
+    "known_devices": [
+      "379a4875",
+      "12578f10"
+    ],
+    "known_locations": [
+      "Mumbai"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 1000,
+    "backspace_rate": 0.052
+  },
+  {
+    "user_id": "u_1022",
+    "name": "Aryan Verma",
+    "avg_keystroke_delay_ms": 110,
+    "keystroke_std_deviation": 18,
+    "avg_session_duration_ms": 3836,
+    "typical_hours": [
+      9,
+      17,
+      11
+    ],
+    "known_devices": [
+      "8fedc818"
+    ],
+    "known_locations": [
+      "Kolkata"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.057
+  },
+  {
+    "user_id": "u_1023",
+    "name": "Raksha Vasa",
+    "avg_keystroke_delay_ms": 120,
+    "keystroke_std_deviation": 24,
+    "avg_session_duration_ms": 5544,
+    "typical_hours": [
+      12,
+      14
+    ],
+    "known_devices": [
+      "326cd642"
+    ],
+    "known_locations": [
+      "Jaipur",
+      "Bangalore"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 1000,
+    "backspace_rate": 0.08
+  },
+  {
+    "user_id": "u_1024",
+    "name": "Nikita Mall",
+    "avg_keystroke_delay_ms": 92,
+    "keystroke_std_deviation": 21,
+    "avg_session_duration_ms": 4167,
+    "typical_hours": [
+      16,
+      11
+    ],
+    "known_devices": [
+      "0dbecf44",
+      "fa3ed531"
+    ],
+    "known_locations": [
+      "Chennai"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.021
+  },
+  {
+    "user_id": "u_1025",
+    "name": "Devansh Prabhu",
+    "avg_keystroke_delay_ms": 149,
+    "keystroke_std_deviation": 13,
+    "avg_session_duration_ms": 6040,
+    "typical_hours": [
+      12,
+      17,
+      20,
+      18
+    ],
+    "known_devices": [
+      "6c705599"
+    ],
+    "known_locations": [
+      "Delhi",
+      "Jaipur"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 1000,
+    "backspace_rate": 0.049
+  },
+  {
+    "user_id": "u_1026",
+    "name": "Chandani Bava",
+    "avg_keystroke_delay_ms": 114,
+    "keystroke_std_deviation": 18,
+    "avg_session_duration_ms": 6708,
+    "typical_hours": [
+      17,
+      11,
+      19
+    ],
+    "known_devices": [
+      "625eb9cd",
+      "304eb2c8"
+    ],
+    "known_locations": [
+      "Hyderabad"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.074
+  },
+  {
+    "user_id": "u_1027",
+    "name": "Bishakha Dua",
+    "avg_keystroke_delay_ms": 86,
+    "keystroke_std_deviation": 18,
+    "avg_session_duration_ms": 3661,
+    "typical_hours": [
+      18,
+      14
+    ],
+    "known_devices": [
+      "42fb8dcd",
+      "54c33d5d"
+    ],
+    "known_locations": [
+      "Mumbai"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.062
+  },
+  {
+    "user_id": "u_1028",
+    "name": "Pushti Parmer",
+    "avg_keystroke_delay_ms": 150,
+    "keystroke_std_deviation": 23,
+    "avg_session_duration_ms": 3522,
+    "typical_hours": [
+      14,
+      16,
+      8,
+      9
+    ],
+    "known_devices": [
+      "af216af9"
+    ],
+    "known_locations": [
+      "Mumbai"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.013
+  },
+  {
+    "user_id": "u_1029",
+    "name": "Ishaan Sawhney",
+    "avg_keystroke_delay_ms": 126,
+    "keystroke_std_deviation": 14,
+    "avg_session_duration_ms": 6791,
+    "typical_hours": [
+      22,
+      13
+    ],
+    "known_devices": [
+      "188160ed"
+    ],
+    "known_locations": [
+      "Delhi"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.075
+  },
+  {
+    "user_id": "u_1030",
+    "name": "Yagnesh Patla",
+    "avg_keystroke_delay_ms": 100,
+    "keystroke_std_deviation": 18,
+    "avg_session_duration_ms": 3652,
+    "typical_hours": [
+      22,
+      14
+    ],
+    "known_devices": [
+      "18691ccc"
+    ],
+    "known_locations": [
+      "Chennai"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.065
+  },
+  {
+    "user_id": "u_1031",
+    "name": "Krish De",
+    "avg_keystroke_delay_ms": 93,
+    "keystroke_std_deviation": 17,
+    "avg_session_duration_ms": 3913,
+    "typical_hours": [
+      21,
+      8,
+      15
+    ],
+    "known_devices": [
+      "8e13d9f1"
+    ],
+    "known_locations": [
+      "Jaipur"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.012
+  },
+  {
+    "user_id": "u_1032",
+    "name": "Ekani Chatterjee",
+    "avg_keystroke_delay_ms": 104,
+    "keystroke_std_deviation": 10,
+    "avg_session_duration_ms": 3472,
+    "typical_hours": [
+      13,
+      12,
+      9
+    ],
+    "known_devices": [
+      "ccc4a598",
+      "68331204"
+    ],
+    "known_locations": [
+      "Kolkata",
+      "Chennai"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.071
+  },
+  {
+    "user_id": "u_1033",
+    "name": "Krish Agrawal",
+    "avg_keystroke_delay_ms": 113,
+    "keystroke_std_deviation": 23,
+    "avg_session_duration_ms": 5483,
+    "typical_hours": [
+      17,
+      12
+    ],
+    "known_devices": [
+      "c4398371"
+    ],
+    "known_locations": [
+      "Kolkata"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.079
+  },
+  {
+    "user_id": "u_1034",
+    "name": "Brijesh Devi",
+    "avg_keystroke_delay_ms": 94,
+    "keystroke_std_deviation": 21,
+    "avg_session_duration_ms": 4766,
+    "typical_hours": [
+      22,
+      17,
+      11
+    ],
+    "known_devices": [
+      "469af5c6",
+      "2aa47eaa"
+    ],
+    "known_locations": [
+      "Kolkata"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.015
+  },
+  {
+    "user_id": "u_1035",
+    "name": "Darpan Mody",
+    "avg_keystroke_delay_ms": 122,
+    "keystroke_std_deviation": 14,
+    "avg_session_duration_ms": 3785,
+    "typical_hours": [
+      13,
+      18,
+      9,
+      19
+    ],
+    "known_devices": [
+      "ba154c93",
+      "12f50a1b"
+    ],
+    "known_locations": [
+      "Kolkata",
+      "Bangalore"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.039
+  },
+  {
+    "user_id": "u_1036",
+    "name": "Upma Suri",
+    "avg_keystroke_delay_ms": 128,
+    "keystroke_std_deviation": 23,
+    "avg_session_duration_ms": 6218,
+    "typical_hours": [
+      19,
+      10,
+      17,
+      20
+    ],
+    "known_devices": [
+      "80acae16",
+      "97018726"
+    ],
+    "known_locations": [
+      "Mumbai",
+      "Bangalore"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.051
+  },
+  {
+    "user_id": "u_1037",
+    "name": "Jonathan Trivedi",
+    "avg_keystroke_delay_ms": 121,
+    "keystroke_std_deviation": 20,
+    "avg_session_duration_ms": 3382,
+    "typical_hours": [
+      15,
+      22,
+      18
+    ],
+    "known_devices": [
+      "fce88bfc"
+    ],
+    "known_locations": [
+      "Bangalore",
+      "Chennai"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.067
+  },
+  {
+    "user_id": "u_1038",
+    "name": "Wakeeta Pall",
+    "avg_keystroke_delay_ms": 110,
+    "keystroke_std_deviation": 12,
+    "avg_session_duration_ms": 4865,
+    "typical_hours": [
+      12,
+      11,
+      20,
+      21
+    ],
+    "known_devices": [
+      "7cc45851"
+    ],
+    "known_locations": [
+      "Mumbai"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.039
+  },
+  {
+    "user_id": "u_1039",
+    "name": "Barkha Chawla",
+    "avg_keystroke_delay_ms": 104,
+    "keystroke_std_deviation": 17,
+    "avg_session_duration_ms": 3720,
+    "typical_hours": [
+      19,
+      14,
+      15,
+      21
+    ],
+    "known_devices": [
+      "b4776c53"
+    ],
+    "known_locations": [
+      "Mumbai"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.066
+  },
+  {
+    "user_id": "u_1040",
+    "name": "Nandini Sinha",
+    "avg_keystroke_delay_ms": 146,
+    "keystroke_std_deviation": 24,
+    "avg_session_duration_ms": 5509,
+    "typical_hours": [
+      8,
+      16,
+      11
+    ],
+    "known_devices": [
+      "7f1a1ee3"
+    ],
+    "known_locations": [
+      "Bangalore",
+      "Kolkata"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.067
+  },
+  {
+    "user_id": "u_1041",
+    "name": "Oliver Parmer",
+    "avg_keystroke_delay_ms": 144,
+    "keystroke_std_deviation": 25,
+    "avg_session_duration_ms": 5567,
+    "typical_hours": [
+      21,
+      16,
+      15
+    ],
+    "known_devices": [
+      "db803b2b"
+    ],
+    "known_locations": [
+      "Jaipur",
+      "Bangalore"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 5000,
+    "backspace_rate": 0.027
+  },
+  {
+    "user_id": "u_1042",
+    "name": "Chandresh Kamdar",
+    "avg_keystroke_delay_ms": 136,
+    "keystroke_std_deviation": 14,
+    "avg_session_duration_ms": 3617,
+    "typical_hours": [
+      19,
+      12
+    ],
+    "known_devices": [
+      "6d482ed0"
+    ],
+    "known_locations": [
+      "Chennai",
+      "Bangalore"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 1000,
+    "backspace_rate": 0.026
+  },
+  {
+    "user_id": "u_1043",
+    "name": "Yochana Kari",
+    "avg_keystroke_delay_ms": 99,
+    "keystroke_std_deviation": 22,
+    "avg_session_duration_ms": 6706,
+    "typical_hours": [
+      11,
+      9,
+      14,
+      20
+    ],
+    "known_devices": [
+      "e7bfa257",
+      "a9ebab2a"
+    ],
+    "known_locations": [
+      "Kolkata",
+      "Mumbai"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.064
+  },
+  {
+    "user_id": "u_1044",
+    "name": "Dalbir Pandit",
+    "avg_keystroke_delay_ms": 82,
+    "keystroke_std_deviation": 25,
+    "avg_session_duration_ms": 3898,
+    "typical_hours": [
+      14,
+      15,
+      8,
+      13
+    ],
+    "known_devices": [
+      "eed34114",
+      "0f9650c9"
+    ],
+    "known_locations": [
+      "Kolkata",
+      "Hyderabad"
+    ],
+    "typical_amount_min": 500,
+    "typical_amount_max": 2000,
+    "backspace_rate": 0.029
+  },
+  {
+    "user_id": "u_1045",
+    "name": "Vaishnavi Swaminathan",
+    "avg_keystroke_delay_ms": 142,
+    "keystroke_std_deviation": 22,
+    "avg_session_duration_ms": 5424,
+    "typical_hours": [
+      14,
+      13
+    ],
+    "known_devices": [
+      "fe6d1d77",
+      "194fdab8"
+    ],
+    "known_locations": [
+      "Jaipur"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 1000,
+    "backspace_rate": 0.05
+  },
+  {
+    "user_id": "u_1046",
+    "name": "Fariq Khare",
+    "avg_keystroke_delay_ms": 83,
+    "keystroke_std_deviation": 20,
+    "avg_session_duration_ms": 3866,
+    "typical_hours": [
+      18,
+      14
+    ],
+    "known_devices": [
+      "3634d176"
+    ],
+    "known_locations": [
+      "Bangalore",
+      "Mumbai"
+    ],
+    "typical_amount_min": 200,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.042
+  },
+  {
+    "user_id": "u_1047",
+    "name": "Samar Pathak",
+    "avg_keystroke_delay_ms": 123,
+    "keystroke_std_deviation": 21,
+    "avg_session_duration_ms": 3918,
+    "typical_hours": [
+      12,
+      20,
+      14
+    ],
+    "known_devices": [
+      "029dcced",
+      "e3809c63"
+    ],
+    "known_locations": [
+      "Jaipur"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 1000,
+    "backspace_rate": 0.056
+  },
+  {
+    "user_id": "u_1048",
+    "name": "Anika Bahri",
+    "avg_keystroke_delay_ms": 85,
+    "keystroke_std_deviation": 13,
+    "avg_session_duration_ms": 5310,
+    "typical_hours": [
+      11,
+      22
+    ],
+    "known_devices": [
+      "a8a874e8"
+    ],
+    "known_locations": [
+      "Pune"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 10000,
+    "backspace_rate": 0.076
+  },
+  {
+    "user_id": "u_1049",
+    "name": "Aishani Bhatia",
+    "avg_keystroke_delay_ms": 139,
+    "keystroke_std_deviation": 19,
+    "avg_session_duration_ms": 5358,
+    "typical_hours": [
+      12,
+      20,
+      13,
+      10
+    ],
+    "known_devices": [
+      "840129a5"
+    ],
+    "known_locations": [
+      "Hyderabad"
+    ],
+    "typical_amount_min": 100,
+    "typical_amount_max": 1000,
+    "backspace_rate": 0.057
+  }
+]
